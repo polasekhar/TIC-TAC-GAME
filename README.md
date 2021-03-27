@@ -1,3 +1,3 @@
 # TIC-TAC-GAME
 
-This game is Created using java, HTML and basic CSS.
+This game is Created using JavaScript, HTML and basic CSS.
