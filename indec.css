@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+}
+#division {
+    
+    background-color: black;
+    margin: 24px auto;
+    width: 50%;
+    height: 50%;
+}
+
+table th {
+    border: 3px solid green;
+    border-collapse: collapse;
+    height: 100px;
+    width: 100px;
+}
+
+table {
+    padding-top: 10px;
+    padding-left: 170px;
+    padding-bottom: 25px;
+}
+
+
+th {
+    text-decoration: coral;
+    text-align: center;
+    color: red;
+    font-size: 38px;
+}
+
+#header {
+    padding-top: 12px;
+    text-decoration: underline;
+    color: rgb(248, 11, 23);
+}
+
+#result {
+    padding: 12px;
+}
+
+#msg {
+    margin: auto;
+    padding: 24px;
+    color: black;
+}
+
+button {
+    padding-top: 48px;
+    background-color: rgb(46, 46, 179);
+    color: black;
+    border: none;
+    margin: auto;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 8px 16px;
+    position: relative;
+}
